@@ -7,7 +7,6 @@ using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {
 	cout<<"Hello test"<<endl;
-	cout<<"This is my Test changes for triggering genkin build"<<endl;
 	return 0;
 }
 
